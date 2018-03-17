@@ -17,18 +17,18 @@ theme_settings:
         <h2 class="subtitle">Friendly tutor based in Cullompton</h2>
         <p>Within easy reach of Exeter and Tiverton</p>
   header_text_feature_image: assets/img/pexels/feature-img-home.jpg
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  footer_text: "&copy; 2018 Devon Drum Lessons"
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
-  behance:
+  tel: 07777 777777
+    behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: 
   google_plus:
   instagram:
   keybase:
@@ -39,7 +39,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: 
   vimeo:
   wordpress:
   youtube:
@@ -48,9 +48,9 @@ theme_settings:
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  portfolio: true
-  search: true
-  tags: true
+  portfolio: false
+  search: false
+  tags: false
   
   
   # Localization strings
