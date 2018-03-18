@@ -22,7 +22,7 @@ theme_settings:
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
   tel: 07777 777777
-    behance:
+  behance:
   bitbucket:
   dribbble:
   facebook:
