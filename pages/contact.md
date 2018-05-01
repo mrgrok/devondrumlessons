@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/feature-img-home.jpg"
 order: 4
 ---
 
-# Contact #
+## Contact ##
 
 <p>
 	To arrange a lesson or for more information please call John on: <br/>
