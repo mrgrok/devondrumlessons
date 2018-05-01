@@ -1,39 +1,48 @@
 ---
 layout: page
-title: Lessons
+title: Drumming Lessons
 permalink: /lessons/
 feature-img: "assets/img/pexels/feature-img-home.jpg"
 order: 2
 ---
+## Drumming lessons ##
 
-# Lessons #
+* Differing abilities catered for
 
-Tuition can be provided on a one to one basis or to a group and lessons can be either block booked or arranged individually as required.
+* Lessons can be provided at your location (distance permitting) or at John's home in Cullompton
 
-Tutor John Raynor is fully DBS checked and has experience working with pupils both young and old and with ranging abilities.
+* Fully DBS checked
 
-Lessons can be provided at your location of choice (distance permitting) or on John's own kit in Cullompton.
+* One to one tuition
 
+* Group lessons
 
-## Typical Rates ##
+* Block bookings and one off lessons welcomed
 
-The table below can be used as a general guide to typical rates charged. Please note that special rates can normally be arranged for larger groups and block bookings and custom requirements can be catered for.
+To arrange a lesson or for more information please call:  
+<a class="button" href="callto: {{ site.theme_settings.tel }}">
+	07777 777777
+</a>
+
+## Rates ##
+
+*Please note: Preferential rates can normally be arranged for block bookings*
 
 ### One to one ###
 
 | 1/2 hour | £x
 | 1 hour   | £x 
 
-### Small Groups (up to 10 people) ###
+### Small Groups (up to 4 people) ###
 
 | 1/2 hour	| £x
 | 1 hour	| £x
-| Mini Experience (half day)	| £x
-| Experience Day (full day)	| £x
+
+### Medium Sized Groups (up to 12 people roughly) ###
+
+| 1/2 hour	| £x
+| 1 hour	| £x
 
 ### Larger Groups ###
 
-| 1/2 hour	| £x
-| 1 hour	| £x
-| Mini Experience (half day)	| £x
-| Experience Day (full day)	| £x
+Please call so we can discuss your requirements further

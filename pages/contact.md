@@ -8,8 +8,9 @@ order: 4
 
 # Contact #
 
-To arrange a lesson or for more information please call John on 07777 777777
-
-<a class="clear button" href="callto: {{ site.theme_settings.tel }}">
-	Call Direct
-</a>
+<p>
+	To arrange a lesson or for more information please call John on: <br/>
+	<a class="button" href="callto: {{ site.theme_settings.tel }}">
+		07777 777777
+	</a>
+</p>
